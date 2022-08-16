@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#CED4DA</color>
+    <color name="secondary_color">#ADB5BD</color>
+    <color name="icon_color">#6C757D</color>
+    <color name="hint_color">#495057</color>
+    <color name="text_color">#343A40</color>
+    <color name="background_color">#212529</color>
+</resources>

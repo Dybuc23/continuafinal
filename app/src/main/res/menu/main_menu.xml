@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_baseline_person_24"
+        android:id="@+id/navigation_profile"
+        android:title="Profile"/>
+    <!--
+    <item
+        android:icon="@drawable/ic_baseline_message_24"
+        android:id="@+id/messagesFragment"
+        android:title="Messages"/>
+    <item
+        android:icon="@drawable/ic_baseline_analytics_24"
+        android:id="@+id/activityFragment"
+        android:title="Activity"/>
+    <item
+        android:icon="@drawable/ic_baseline_list_24"
+        android:id="@+id/listFragment"
+        android:title="Lists"/>
+    <item
+        android:icon="@drawable/ic_baseline_report_24"
+        android:id="@+id/reportFragment"
+        android:title="Reports"/>
+    <item
+        android:icon="@drawable/ic_baseline_bar_chart_24"
+        android:id="@+id/stadisticFragment"
+        android:title="Stadistics"/>
+    <item
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:id="@+id/loginFragment"
+        android:title="Sign Out"/>
+    <item
+        android:icon="@drawable/ic_baseline_contact_support_24"
+        android:id="@+id/supportFragment"
+        android:title="Help and Support"/>-->
+</menu>

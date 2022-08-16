@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136434573383",
+    "project_id": "continuafinal",
+    "storage_bucket": "continuafinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136434573383:android:52990dcecf6abc8995d162",
+        "android_client_info": {
+          "package_name": "com.example.continuafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136434573383-3icqlsqt8ptv6dag464kc3ak659u0s9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1JUSAbO8oM_rhWY2GUP347XwP1ZmIrEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136434573383-3icqlsqt8ptv6dag464kc3ak659u0s9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
